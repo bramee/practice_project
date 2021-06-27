@@ -1,5 +1,5 @@
-# practice_project
-repository for practice projects from DTI.
+# practice_project Mushroom Dataset
+        repository for practice projects from DTI.
 
 Here I have explained about the classification problem with encoding technique and applied different algorithms and cross validation score to improve the accuracy score.
 
